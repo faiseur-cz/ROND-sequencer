@@ -1,9 +1,11 @@
-Here are some first renders of this 8 steps analog sequencer.
+I finished the design and built a couple of them, all works as it should. So you can use the gerbers to make your own version.
 
-I hope it will see the light some day and some other people will enjoy it too
+ROND is an 8 step analog sequencer, kind of augmented (and circular!) baby8
 
-![ROND sequencer PANEL](https://github.com/faiseur-cz/ROND-sequencer/assets/120211754/60a7ebb3-f018-4c3c-a0a3-a535d3bb1acc)
+- Pattern length rotary switch to set the number of steps in your sequence
+- You can choose between two levels of CV (5v/2.5v), if you need more or less precision in the tuning of each step.
+- Gates on/off for each step, on the right of the module.
+- Run/Tune switch and Next Step push-button to facilitate tuning
 
-![ROND sequencer PCB front](https://github.com/faiseur-cz/ROND-sequencer/assets/120211754/21c02a5e-66be-47c7-9b89-fc3b070b85ce)
 
-![ROND sequencer PCB back](https://github.com/faiseur-cz/ROND-sequencer/assets/120211754/85d24184-7c14-4cec-b8b8-c9529ca42e35)
+
