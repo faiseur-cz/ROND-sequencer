@@ -10,5 +10,11 @@ ROND is an 8 step analog sequencer, kind of augmented (and circular!) baby8
 - Gates on/off for each step, on the right of the module.
 - Run/Tune switch and Next Step push-button to facilitate tuning
 
+![ROND - pcb front](https://github.com/user-attachments/assets/6069a878-ec0e-41fe-848c-9ddb8c83225a)
+![ROND - pcb back](https://github.com/user-attachments/assets/720bee59-cf57-4fef-ae69-f7b807a77e62)
+![ROND - panel](https://github.com/user-attachments/assets/961eb5d2-034b-4a72-a374-bae1dd21a68e)
+
+
+
 
 
