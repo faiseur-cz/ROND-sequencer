@@ -12,8 +12,8 @@ ROND is an 8 step analog sequencer, kind of augmented (and circular!) baby8
 
 CALIBRATION PROCEDURE :
 - set the Run/Tune switch in TUNE position
-- make sure the selected gate switch is ON (high position)
-- monitor the CV output voltage and turn the trimpots until you reach precisely 5V and 2.5V
+- make sure the selected gate switch is ON (high position) and the corresponding pot is fully clockwise (maximum CV)
+- monitor the CV output voltage and turn the trimpots until you reach precisely 5V (with the switch in 5V position) and 2.5V (with the switch in 2.5V position)
 - DONE!
 
 ![ROND - panel](https://github.com/user-attachments/assets/4aeb5114-e9f1-40d0-91ae-3e2f380f483e)
