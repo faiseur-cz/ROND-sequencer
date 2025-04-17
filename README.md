@@ -1,3 +1,10 @@
+WARNING : It has been reported on modwiggler that this circuit is NOT OK!!! So please, check the forum. There were some solutions given. 
+Right now i will not take the time needed to redo everything, because it would need some global redesign, and this project is not a priority for me.
+Feel free to do it and write me directly or on the forum, it would be great!
+
+
+
+Original description :
 I finished the design and built a couple of them, all works as it should. So you can use the gerbers to make your own version.
 
 There is a thread on modwiggler if you have any question :
